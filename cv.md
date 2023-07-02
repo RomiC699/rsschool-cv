@@ -15,3 +15,7 @@ function draw() {
 }
 ```
 ***************
+## Contacts:
+## e-mail: sadromich@gmail.com
+## Discord: RomiC699
+## GitHub: RomiC699
