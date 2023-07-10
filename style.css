@@ -2,3 +2,51 @@
   margin: 0;
   padding: 0;
 }
+*,*:before,*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+a:hover {text-decoration: none;}
+a:focus, a:active {outline: none;}
+a:visited {text-decoration: none;}
+
+a:focus,
+a:active,
+a:hover {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: yellow;
+}
+main a {
+  color:blue;
+}
+
+body {
+  background:blue;
+  color:black;
+}
+
+.wrap {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+main {
+  background:yellow;
+}
+
+footer a{
+  margin: 0 auto;
+}
+
+
+#main-logo img{
+  display:inline-block;
+}
+#main-logo h1{
+  display:inline-block;
+}
